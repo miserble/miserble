@@ -1,5 +1,7 @@
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=miserble&color=b63d3d&style=for-the-badge&label=hey"
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=miserble&color=8f2fb5&style=for-the-badge&label=hey"
 alt="visitors"> </h1>
+
+𝓐𝓽𝓪𝓫𝓸𝓸𝓴
 
 demiboy, he/they
 
